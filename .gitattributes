@@ -1,1 +1,2 @@
-*.make linguist-detectable=false
+cmake-build-debug/* linguist-vendored
+
